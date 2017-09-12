@@ -76,6 +76,11 @@ bitbake clean mono image recipe
 bitbake -c cleanall image-full-mono
 ```
 
+## Help source
+
+Following git repository will be help you, to build with this source.    
+https://github.com/insung/mono-server-yocto.git   
+
 
 ## Copyright
   
