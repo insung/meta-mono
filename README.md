@@ -9,7 +9,7 @@ See below for more details.
 * meta-mono information: 
   * https://layers.openembedded.org/layerindex/branch/master/layer/meta-mono/  
 
-* git repo: 
+* original git repo: 
   * git://git.yoctoproject.org/meta-mono  
   * https://git.yoctoproject.org/git/meta-mono  
 
